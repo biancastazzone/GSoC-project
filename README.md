@@ -11,5 +11,10 @@ Bioinformatics pipeline to analyze gene networks involved in extracellular matri
 ## Goal
 This project is being developed as a proposal for Google Summer of Code 2026 with EMBL-EBI.
 
+## Example output
+- Differential expression table
+- Volcano plot
+- Network visualization (planned)
+
 ## Status
 Work in progress
